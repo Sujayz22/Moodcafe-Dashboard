@@ -1,0 +1,9 @@
+/* MoodCafe custom styles */
+body {
+  background: linear-gradient(180deg,#f8f9fa 0%, #fff 100%);
+  color: #333;
+}
+.navbar-brand { font-weight: 700; }
+.card { box-shadow: 0 2px 6px rgba(0,0,0,0.06); }
+table th { background: #f1f3f5; }
+pre { background: #f8f9fa; padding: 1rem; border-radius: 6px; }
